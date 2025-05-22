@@ -1,2 +1,2 @@
 # Grp_6_lab
-Group 8 lab assignment 1 
+Group 6 lab assignment 1 
